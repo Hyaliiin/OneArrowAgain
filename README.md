@@ -74,3 +74,5 @@ python main.py
 ### 失败界面
 
 ![失败界面](screenshots/fail.png)
+
+- 提示功能，可高亮当前可安全消除的箭头
